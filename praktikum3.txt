@@ -2,3 +2,4 @@ Praktikum 3
 - apa itu Git dan GitHub
 - apa itu VCS
 - memahami tentang Git dan GitHub
+- membuat contoh branch dan fork
