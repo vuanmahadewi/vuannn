@@ -4,3 +4,4 @@ Praktikum 3
 - memahami tentang Git dan GitHub
 - membuat contoh branch dan fork
 - membuat laporan
+- membuat kesimpulan
